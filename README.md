@@ -1,7 +1,9 @@
 
 ![me)](https://github.com/user-attachments/assets/f36249d6-ff99-4120-b70b-822e103d7d80)
 
-## Hello, I am Valentina 👋
+## Hello, 👋
+
+Welcome to my github profile.
 
 ```javascript
 const valentina = {
