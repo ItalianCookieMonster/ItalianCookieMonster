@@ -15,9 +15,13 @@ const valentina = {
 
  🔭 I’m currently working on Section Comparison Tool, a web application designed to help users compare cross-sections of retaining walls built with precast concrete blocks. The app allows users to evaluate cost efficiency and CO2 emissions across multiple sections, generate detailed reports, and manage data through an admin panel with full CRUD functionality. I’m responsible for both the frontend (React, TypeScript) and backend (Python, Django), as well as testing and project management using Agile methodology.
 
+🌱 I’m currently learning backend development with Django and Python as part of my fullstack bootcamp. I’m focusing on building robust APIs and enhancing my understanding of database management with PostgreSQL.
+
 📫 How to reach me:
 - Email: vale.toni93@gmail.com
 - Linkedin: [/valentinatoni](https://www.linkedin.com/in/valentinatoni/)
+
+[![ItalianCookieMonster's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItalianCookieMonster&show_icons=true&theme=tokyonight)
 
  
 <!--
