@@ -3,7 +3,7 @@
 
 ## Hello, 👋
 
-Welcome to my github profile.
+🤗 Welcome to my github profile.
 
 ```javascript
 const valentina = {
